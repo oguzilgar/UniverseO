@@ -18,6 +18,8 @@ public class test01 {
 
         Thread.sleep(3000);
         driver.close();
+        
+         System.out.println("test from github");
 
 
 
